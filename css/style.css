@@ -1,0 +1,24 @@
+/*Css template*/
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 50px; /* Added */
+        margin-top: 50PX;
+}
+
+.acc{
+	margin-bottom: 30px; /* Added */
+    margin-top: 30PX;
+}
+.gg{
+	margin-top: 10px;
+}
+.ale{
+	margin-bottom: 30px; /* Added */
+    margin-top: 100PX;
+}
+.pages{
+	margin-bottom: 100px; /* Added */
+    margin-top: 100PX;
+}
